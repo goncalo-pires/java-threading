@@ -1,4 +1,4 @@
-package src.fundamentals.cordination.example1;
+package fundamentals.cordination.example1;
 
 public class Main {
 

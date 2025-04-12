@@ -1,4 +1,4 @@
-package src.fundamentals.creation.caseStudy;
+package fundamentals.creation.caseStudy;
 
 import java.util.ArrayList;
 import java.util.List;

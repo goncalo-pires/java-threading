@@ -1,4 +1,4 @@
-package src.fundamentals.cordination.example3;
+package fundamentals.cordination.example3;
 
 import java.math.BigInteger;
 import java.util.ArrayList;

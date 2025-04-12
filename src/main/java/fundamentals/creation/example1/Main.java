@@ -1,4 +1,4 @@
-package src.fundamentals.creation.example1;
+package fundamentals.creation.example1;
 
 public class Main {
 
