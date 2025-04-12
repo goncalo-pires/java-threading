@@ -19,7 +19,7 @@ public class Main {
         listThreads.forEach(thread -> {
             try {
                 thread.join(2000);
-//            } catch (InterruptedException e) {
+            } catch (InterruptedException e) {
                 throw new RuntimeException(e);
             }
             if (thread.isAlive()) {
