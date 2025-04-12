@@ -17,9 +17,19 @@ The project is divided into several folders based on the specific areas of learn
 
 ### 1. Threading Fundamentals
 
-This section covers the basics of thread creation, execution, and debugging in Java. The key topics include:
+This section covers the basics of thread creation, coordination, and debugging in Java.
 
-- **Thread creation with `Runnable` Interface**:
-- **Thread creation with `java.lang.Thread`**
-- **Thread class capabilities**
-- **Case Study: Interactive Multithreading Application**
+#### 1.1 Thread Creation
+
+- **Thread creation with `Runnable` Interface**  
+- **Thread creation with `java.lang.Thread`**  
+- **Thread class capabilities**  
+- **Case Study: Interactive Multithreading Application**  
+
+#### 1.2 Thread Coordination
+
+- **Thread termination**
+- **Thread interrupt**
+- **Daemon threads**
+- **Thread coordination with thread.join()**
+- **Case study**
