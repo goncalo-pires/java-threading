@@ -20,6 +20,6 @@ The project is divided into several folders based on the specific areas of learn
 This section covers the basics of thread creation, execution, and debugging in Java. The key topics include:
 
 - **Thread creation with `Runnable` Interface**:
-- **Thread class capabilities**
 - **Thread creation with `java.lang.Thread`**
+- **Thread class capabilities**
 - **Case Study: Interactive Multithreading Application**
