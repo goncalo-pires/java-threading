@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class RecolorImage {
 
     private static final String SOURCE_FILE = "./src/main/java/performance/latency/many-flowers.jpg";
     private static final String DESTINATION_FILE = "./src/main/java/performance/latency/many-flowers-out.jpg";

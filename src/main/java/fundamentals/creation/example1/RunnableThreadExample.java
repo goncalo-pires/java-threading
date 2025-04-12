@@ -1,6 +1,6 @@
 package fundamentals.creation.example1;
 
-public class Main {
+public class RunnableThreadExample {
 
     public static void main(String[] args) {
         executeGoodThread("Worker thread");

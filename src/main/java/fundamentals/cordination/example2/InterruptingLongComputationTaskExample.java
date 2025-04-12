@@ -2,7 +2,7 @@ package fundamentals.cordination.example2;
 
 import java.math.BigInteger;
 
-public class Main {
+public class InterruptingLongComputationTaskExample {
 
     public static void main(String[] args) {
         Thread thread = new Thread(new LongComputationTask(BigInteger.valueOf(2L), BigInteger.valueOf(10L)));

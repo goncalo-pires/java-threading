@@ -1,6 +1,6 @@
 package fundamentals.creation.example2;
 
-public class Main {
+public class ExtendThreadExample {
 
     public static void main(String[] args) {
         Thread thread = new CustomThread();

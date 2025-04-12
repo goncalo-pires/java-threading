@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Main {
+public class ThreadJoinAndInterruptExample {
 
     public static void main(String[] args) {
         List<Long> inputNumbers = Arrays.asList(0L, 1244L, 2312324L, 14145L, 124512L);

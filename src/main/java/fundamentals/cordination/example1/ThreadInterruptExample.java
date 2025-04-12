@@ -1,6 +1,6 @@
 package fundamentals.cordination.example1;
 
-public class Main {
+public class ThreadInterruptExample {
 
     public static void main(String[] args) {
         Thread thread = new Thread(new BlockingTask());

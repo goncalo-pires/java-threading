@@ -21,7 +21,7 @@ import java.util.Random;
  * - The police thread finishes its countdown
  */
 
-public class Main {
+public class VaultCrackingSimulation {
 
     public static final int MAX_PASSWORD = 5555;
 
